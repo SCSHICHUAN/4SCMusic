@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SCCentreController.h
 //  SCMusic
 //
 //  Created by 蓝科 on 16/5/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SCCentreController : UIViewController
 
 @end
-
